@@ -1,0 +1,21 @@
+title/^.*[ ]-[ ].{1,2}搜$/
+
+*://*.jd.com/*/Search?keyword=*
+*://*.jd.com/Search?keyword=*
+*://*/searchArticle?qc=*
+*://*/search?keyword=*
+*://*.baidu.com/sf/vsearch?pd=*
+*://*.baidu.com/from=*/ssid=*/s?word=*
+*://*.baidu.com/s?word=*
+*://*.yahoo.com/a*/search?p=*
+*://*/s.php?q=*
+*://*/search/super.html?*
+*://*.zhe23.com/search/*
+*://*.tuitaow.com/search/*
+*://*.yhqyhq.com/search/*
+
+*://chsou.cc/*
+*://meisearch.cc/*
+*://search.bilibili.com/*
+*://so.ixigua.com/*
+*://search.suning.com/*
