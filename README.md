@@ -2,6 +2,12 @@
 
 [uBlacklist](https://iorate.github.io/ublacklist/) 规则, 用于屏蔽谷歌搜索结果中的其他搜索引擎
 
+## 订阅链接
+
+```https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt```
+
+```https://ghproxy.com/https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt``` **(代理加速)**
+
 ## LICENSE
 
 Copyright (c) 2021 entr0pia (风沐白)
