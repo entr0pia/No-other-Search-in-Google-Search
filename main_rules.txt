@@ -7,7 +7,8 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜)$/
 *://*.baidu.com/sf/vsearch?pd=*
 *://*.baidu.com/from=*/ssid=*/s?word=*
 *://*.baidu.com/s?word=*
-*://*.yahoo.com/a*/search?p=*
+*://*.yahoo.com/*/search?p=*
+*://z.sogou.com/web/searchList.jsp?keyword=*
 *://*/s.php?q=*
 *://*/search/super.html?*
 *://*.zhe23.com/search/*
