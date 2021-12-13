@@ -1,4 +1,4 @@
-title/^.*[ ]?-[ ]?.{1,4}(Sou|搜)$/
+title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 
 *://*.jd.com/*/Search?keyword=*
 *://*.jd.com/Search?keyword=*
