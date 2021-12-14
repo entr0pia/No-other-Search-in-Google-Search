@@ -20,3 +20,4 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 *://search.bilibili.com/*
 *://so.ixigua.com/*
 *://search.suning.com/*
+*://souquan.cc/*
