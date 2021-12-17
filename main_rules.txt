@@ -14,6 +14,7 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 *://*.zhe23.com/search/*
 *://*.tuitaow.com/search/*
 *://*.yhqyhq.com/search/*
+*://map.baidu.com/search/*
 
 *://chsou.cc/*
 *://meisearch.cc/*
