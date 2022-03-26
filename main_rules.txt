@@ -16,6 +16,7 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 *://*.yhqyhq.com/search/*
 *://map.baidu.com/search/*
 *://www.kerwin.cn/dl?query=*
+*://v.qq.com/x/search/?q=*
 
 *://chsou.cc/*
 *://meisearch.cc/*
@@ -23,3 +24,4 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 *://so.ixigua.com/*
 *://search.suning.com/*
 *://souquan.cc/*
+*://www.ixigua.com/search/*
