@@ -25,3 +25,4 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 *://search.suning.com/*
 *://souquan.cc/*
 *://www.ixigua.com/search/*
+*://www.wuzhuiso.com/*
