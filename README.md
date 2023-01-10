@@ -4,9 +4,26 @@
 
 ## 订阅链接
 
-```https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt```
+```
+https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt
+```
 
-```https://ghproxy.com/https://raw.githubusercontent.com/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt``` **(代理加速)**
+代理加速
+```
+https://raw.fastgit.org/entr0pia/No-other-Search-in-Google-Search/master/main_rules.txt
+``` 
+
+## 补充规则
+
+xx百科网
+```
+title/^.*-[ ]?.{2,4}(百科|知识|问答|信息|中文)网$/
+```
+
+博彩网站
+```
+title/[【（]?.*[\da-z]+.(com|live|cc|liner|vip).*[】）]?/
+```
 
 ## LICENSE
 
