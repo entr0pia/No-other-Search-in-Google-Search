@@ -18,6 +18,7 @@ title/^.*[ ]?-[ ]?.{1,4}(Sou|搜|Search)$/
 *://www.kerwin.cn/dl?query=*
 *://v.qq.com/x/search/?q=*
 *://www.douyin.com/search/*
+*://juejin.cn/s/*
 
 *://chsou.cc/*
 *://meisearch.cc/*
